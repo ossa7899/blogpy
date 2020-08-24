@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #other app
     'ckeditor',
+    'rest_framework',
 
     #myapp
     'blog',
